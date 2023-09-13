@@ -1,10 +1,9 @@
-1.	Tag Cardio: Headers
+# 01. Tag Cardio: Headers
 
-<p>Create a Web Page like the following and use six different HTML headings:</p>
+## Create a Web Page and use six different HTML headings:
  
-<ol>
-<li>Create a file named headers.html.</li>
-<li>Use the text from the file site-texts.txt.</li>
-<li>Set the html title to be the same as the task name.</li>
-</ol>
+
+1. Create a file named **headers.html**
+2. Use the text from the file **site-texts.txt**
+3. Set the html title to be the same as the task name
 
