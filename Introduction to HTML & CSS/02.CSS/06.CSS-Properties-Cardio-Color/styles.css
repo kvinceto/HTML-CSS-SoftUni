@@ -1,0 +1,20 @@
+p {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+div {
+    color: red;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.first {
+    text-decoration: underline;
+}
+
+#second {
+    font-style: italic;
+}
