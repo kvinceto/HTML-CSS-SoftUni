@@ -14,9 +14,9 @@
 -	Text size: 30px;
 -	Border: 1px solid #f7f381;
 -	box-shadow: 0 0 10px 2px #333333;
--	<ol>
+-	``<ol>``
 -	Margin: 12px;
--	<p>
+-	``<p>``
 -	Center the text
 
 ## Hints
