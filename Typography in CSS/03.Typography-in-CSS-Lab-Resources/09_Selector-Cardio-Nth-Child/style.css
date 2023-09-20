@@ -1,0 +1,4 @@
+span:nth-last-child(odd){
+    color: white;
+    background-color: red;
+}
