@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+    line-height: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #fff;
+    max-width: 1200px;
+    height: inherit;
+    margin: 2em auto;
+
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1/1;
+}
+
+h1 {
+    color: #fff;
+    font-weight: 300;
+    margin-top: 1em;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #1881B6;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 1em;
+    margin-right: 1em;
+    border: 4px solid #000;
+    border-radius: 10px;
+}
+
+.box1 {
+    margin: 3em;
+    margin-right: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.box2 {
+    margin: 3em;
+    margin-left: 1em;
+}
+
+.text1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 1em 0;
+}
+
+.text2 {
+    margin-top: 3em;
+    padding: 1em 0;
+    text-indent: 6ch;
+    height: 50%
+}
+
+.buttons {
+    margin-top: 3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 1em;
+}
+
+.btn-red {
+    background-color: #B6416D;
+    border: 1px solid #3E2D44;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+}
+
+.btn-red a {
+    text-decoration: none;
+    color: #FEFFFF;
+}
+
+.btn-clear {
+    border: 1px solid #0C415C;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+}
+
+.btn-clear a {
+    text-decoration: none;
+    color: #0B302F;
+    font-weight: 700;
+}
